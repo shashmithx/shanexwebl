@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+__pycache__/
+*.pyc
+*.sqlite3
